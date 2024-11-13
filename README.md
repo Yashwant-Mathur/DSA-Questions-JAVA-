@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0389-find-the-difference) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
