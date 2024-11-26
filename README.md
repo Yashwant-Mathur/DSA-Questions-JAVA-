@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0898-transpose-matrix](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0898-transpose-matrix) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 ## Dynamic Programming
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0898-transpose-matrix](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0898-transpose-matrix) |
 | [1806-count-of-matches-in-tournament](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/1806-count-of-matches-in-tournament) |
 ## Binary Search
 |  |
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0207-course-schedule) |
+## Matrix
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
