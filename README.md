@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0207-course-schedule) |
 | [0543-diameter-of-binary-tree](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0543-diameter-of-binary-tree) |
 | [0832-binary-tree-pruning](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0832-binary-tree-pruning) |
+| [0871-keys-and-rooms](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0871-keys-and-rooms) |
 ## Binary Tree
 |  |
 | ------- |
@@ -92,10 +93,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0207-course-schedule) |
+| [0871-keys-and-rooms](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0871-keys-and-rooms) |
 ## Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0207-course-schedule) |
+| [0871-keys-and-rooms](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0871-keys-and-rooms) |
 ## Topological Sort
 |  |
 | ------- |
