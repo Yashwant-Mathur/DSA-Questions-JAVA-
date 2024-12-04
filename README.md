@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0389-find-the-difference) |
 | [2032-largest-odd-number-in-string](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/2032-largest-odd-number-in-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0143-reorder-list) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Stack
 |  |
 | ------- |
