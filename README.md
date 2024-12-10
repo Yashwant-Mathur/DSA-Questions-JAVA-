@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0898-transpose-matrix) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/1706-min-cost-to-connect-all-points) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 ## Dynamic Programming
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0207-course-schedule) |
 | [0871-keys-and-rooms](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0871-keys-and-rooms) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/1706-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
 | ------- |
@@ -116,4 +118,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+## Union Find
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/1706-min-cost-to-connect-all-points) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
