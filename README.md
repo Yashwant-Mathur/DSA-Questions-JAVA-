@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0134-gas-station) |
+| [0402-remove-k-digits](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0402-remove-k-digits) |
 | [2032-largest-odd-number-in-string](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/2032-largest-odd-number-in-string) |
 ## Hash Table
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0389-find-the-difference) |
+| [0402-remove-k-digits](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0402-remove-k-digits) |
 | [2032-largest-odd-number-in-string](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/2032-largest-odd-number-in-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0143-reorder-list) |
+| [0402-remove-k-digits](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0402-remove-k-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -128,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/1706-min-cost-to-connect-all-points) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
