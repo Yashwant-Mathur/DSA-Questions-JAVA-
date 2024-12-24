@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0445-add-two-numbers-ii](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0445-add-two-numbers-ii) |
 | [0504-base-7](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0504-base-7) |
 | [1806-count-of-matches-in-tournament](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/1806-count-of-matches-in-tournament) |
 | [2032-largest-odd-number-in-string](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/2032-largest-odd-number-in-string) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0143-reorder-list) |
+| [0445-add-two-numbers-ii](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0445-add-two-numbers-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0143-reorder-list) |
 | [0402-remove-k-digits](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0402-remove-k-digits) |
+| [0445-add-two-numbers-ii](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0445-add-two-numbers-ii) |
 ## Recursion
 |  |
 | ------- |
