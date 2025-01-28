@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0059-spiral-matrix-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0134-gas-station](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0134-gas-station) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0059-spiral-matrix-ii) |
 | [0898-transpose-matrix](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0898-transpose-matrix) |
 | [1806-count-of-matches-in-tournament](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/1806-count-of-matches-in-tournament) |
 ## Binary Search
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0059-spiral-matrix-ii) |
 | [0898-transpose-matrix](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0898-transpose-matrix) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Heap (Priority Queue)
