@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/1706-min-cost-to-connect-all-points) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 ## Dynamic Programming
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0389-find-the-difference) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/1798-max-number-of-k-sum-pairs) |
 ## String
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0389-find-the-difference) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Math
 |  |
 | ------- |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0143-reorder-list) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/1894-merge-strings-alternately) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Stack
