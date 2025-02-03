@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0402-remove-k-digits) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/1894-merge-strings-alternately) |
 | [2032-largest-odd-number-in-string](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/2032-largest-odd-number-in-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -157,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0724-find-pivot-index) |
+## Sliding Window
+|  |
+| ------- |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
