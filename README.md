@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0143-reorder-list) |
 | [0445-add-two-numbers-ii](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0445-add-two-numbers-ii) |
 ## Two Pointers
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0143-reorder-list) |
 ## Tree
 |  |
