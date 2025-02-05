@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0389-find-the-difference) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## String
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0402-remove-k-digits) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/1894-merge-strings-alternately) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2032-largest-odd-number-in-string](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/2032-largest-odd-number-in-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -164,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Counting
+|  |
+| ------- |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 <!---LeetCode Topics End-->
