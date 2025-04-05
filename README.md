@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1706-min-cost-to-connect-all-points](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/1706-min-cost-to-connect-all-points) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/1975-minimum-distance-to-the-target-element) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 ## Dynamic Programming
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0389-find-the-difference) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Sorting
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0445-add-two-numbers-ii) |
 | [0504-base-7](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0504-base-7) |
 | [1806-count-of-matches-in-tournament](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/1806-count-of-matches-in-tournament) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/2032-largest-odd-number-in-string) |
 ## Simulation
 |  |
@@ -170,4 +173,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+## Backtracking
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
