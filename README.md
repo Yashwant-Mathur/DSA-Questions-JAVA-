@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0134-gas-station) |
 | [0283-move-zeroes](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0724-find-pivot-index) |
+| [0747-min-cost-climbing-stairs](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0747-min-cost-climbing-stairs) |
 | [0898-transpose-matrix](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0898-transpose-matrix) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0747-min-cost-climbing-stairs](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0747-min-cost-climbing-stairs) |
 ## Greedy
 |  |
 | ------- |
