@@ -6,10 +6,6 @@ class Solution {
         int maxpos=nums[0];
         int minpos=nums[0];
         int maxres=nums[0];
-        if(n==1)
-        {
-            return nums[0];
-        }
         for(int i =1;i<n;i++)
         {
             ch1=maxpos*nums[i];
