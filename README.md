@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0134-gas-station](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0134-gas-station) |
+| [0139-word-break](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0152-maximum-product-subarray) |
 | [0283-move-zeroes](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0724-find-pivot-index) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0139-word-break](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0152-maximum-product-subarray) |
 | [0747-min-cost-climbing-stairs](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0747-min-cost-climbing-stairs) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
@@ -42,12 +44,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0139-word-break) |
 | [0389-find-the-difference](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0389-find-the-difference) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## String
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0139-word-break) |
 | [0389-find-the-difference](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0402-remove-k-digits) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -191,4 +195,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
