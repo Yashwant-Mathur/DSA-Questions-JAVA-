@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0152-maximum-product-subarray) |
 | [0747-min-cost-climbing-stairs](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0747-min-cost-climbing-stairs) |
+| [1250-longest-common-subsequence](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/1250-longest-common-subsequence) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 ## Greedy
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0139-word-break) |
 | [0389-find-the-difference](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0402-remove-k-digits) |
+| [1250-longest-common-subsequence](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/1250-longest-common-subsequence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
