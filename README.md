@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0152-maximum-product-subarray) |
 | [0747-min-cost-climbing-stairs](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0747-min-cost-climbing-stairs) |
+| [0806-domino-and-tromino-tiling](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0806-domino-and-tromino-tiling) |
 | [1250-longest-common-subsequence](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/1250-longest-common-subsequence) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 ## Greedy
