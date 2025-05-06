@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/1975-minimum-distance-to-the-target-element) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2048-build-array-from-permutation](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/2048-build-array-from-permutation) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 ## Dynamic Programming
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0059-spiral-matrix-ii) |
 | [0898-transpose-matrix](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0898-transpose-matrix) |
 | [1806-count-of-matches-in-tournament](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/1806-count-of-matches-in-tournament) |
+| [2048-build-array-from-permutation](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/2048-build-array-from-permutation) |
 ## Binary Search
 |  |
 | ------- |
