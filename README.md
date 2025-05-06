@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0152-maximum-product-subarray) |
+| [0238-product-of-array-except-self](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0747-min-cost-climbing-stairs) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0724-find-pivot-index) |
 ## Sliding Window
 |  |
