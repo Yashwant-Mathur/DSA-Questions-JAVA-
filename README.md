@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0139-word-break) |
 | [0389-find-the-difference](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0402-remove-k-digits) |
+| [0443-string-compression](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0443-string-compression) |
 | [1250-longest-common-subsequence](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/1250-longest-common-subsequence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/1894-merge-strings-alternately) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0143-reorder-list) |
 | [0283-move-zeroes](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0283-move-zeroes) |
+| [0443-string-compression](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0443-string-compression) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/1894-merge-strings-alternately) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
