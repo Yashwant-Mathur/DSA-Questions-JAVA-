@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0139-word-break](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0806-domino-and-tromino-tiling) |
 | [1250-longest-common-subsequence](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/1250-longest-common-subsequence) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0139-word-break) |
 | [0389-find-the-difference](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0443-string-compression) |
 | [1250-longest-common-subsequence](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/1250-longest-common-subsequence) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0143-reorder-list) |
 | [0283-move-zeroes](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0443-string-compression) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/1894-merge-strings-alternately) |
