@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/2048-build-array-from-permutation) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0207-course-schedule) |
 | [0871-keys-and-rooms](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0871-keys-and-rooms) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/1706-min-cost-to-connect-all-points) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Topological Sort
 |  |
 | ------- |
@@ -165,10 +167,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0059-spiral-matrix-ii) |
 | [0898-transpose-matrix](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0898-transpose-matrix) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/1171-shortest-path-in-binary-matrix) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Union Find
 |  |
 | ------- |
@@ -214,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/0139-word-break) |
+## Shortest Path
+|  |
+| ------- |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Yashwant-Mathur/DSA-Questions-JAVA-/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 <!---LeetCode Topics End-->
